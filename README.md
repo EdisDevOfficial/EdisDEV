@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/881992907203178547/884964124449177650/tumblr_841f18a37f696f6fb081133978c84757_da1bdb06_400.gif" align="right" width="400" height="250">
 
-### Hi I'm Edis  <img src=["https://cdn.discordapp.com/emojis/985607731417329674.webp?size=80&quality=lossless)" height="20px"></h2>
+### Hi I'm Edis  <img src=[">
 
 <p align="left">Merhaba, Ben Edis Lua,JS,C#,HTML,CSS (v.b) dilleri ile ilgileniyorum ağırlıklı Lua üzerine çalışıyorum 
 
